@@ -1,0 +1,4 @@
+Host xxx.xxx.xxx.xxx
+  HostName xxx.xxx.xxx.xxx
+  User [username]
+  IdentityFile ~/.ssh/sw
